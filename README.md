@@ -17,24 +17,26 @@
 
 	```
   	//backTop  控制显示返回顶部按钮
- <floatbut backTop="{{backTop}}"></floatbut> 
-
+    <floatbut backTop="{{backTop}}"></floatbut> 
 	```
 4. 在使用组件的页面 .js文件里面实现方法
  
 	```
-  data: {
-    backTop:false
-  },
-  //监听页面滚动
-  onPageScroll: function (e) {
-      var that = this
-      var scrollTop = e.scrollTop
-      var backTop = scrollTop > 100 ? true : false
-      that.setData({
-        backTop: backTop
-      })
-  }
+    data: {
+      backTop:false
+    },
+    //监听页面滚动
+    onPageScroll: function (e) {
+        var that = this
+        var scrollTop = e.scrollTop
+        var backTop = scrollTop > 100 ? true : false
+        that.setData({
+          backTop: backTop
+        })
+    }
  	```
+
+
+![图片名称](./images/demo.png)
 
 希望大家给个星。感谢
