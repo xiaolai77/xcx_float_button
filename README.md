@@ -37,7 +37,7 @@
  	```
 ### 项目截图:
 
-<img src="https://github.com/xiaolai77/xcx_float_button/raw/master/images/demo.png" width="320px" style="display:inline;">
+<img src="https://github.com/xiaolai77/xcx_float_button/raw/master/components/images/demo.png" width="320px" style="display:inline;">
 
  
 
