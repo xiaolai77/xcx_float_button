@@ -15,9 +15,8 @@
 
 3. 在使用组件的页面 .wxml 文件,添加以下代码
 
-	//backTop  控制显示返回顶部按钮
- 
 	```
+  	//backTop  控制显示返回顶部按钮
  <floatbut backTop="{{backTop}}"></floatbut> 
 
 	```
