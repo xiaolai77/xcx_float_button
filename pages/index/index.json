@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "floatbut": "/components/floatbut/floatbut"
+  }
+}

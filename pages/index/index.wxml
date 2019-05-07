@@ -1,0 +1,11 @@
+<view class="container" style="height:1900rpx;">
+   <view style="height:400rpx;">ssss ssss </view>  
+   <view style="height:400rpx;">ssss ssss </view>
+   <view style="height:400rpx;">ssss ssss </view>
+   <view style="height:400rpx;">ssss ssss </view>
+   <view style="height:400rpx;">ssss ssss </view>
+   <view style="height:400rpx;">ssss ssss </view>
+</view>
+
+<!--调用组件 传入backTop参数 默认不显示返回顶部按钮-->
+<floatbut backTop="{{backTop}}"></floatbut>
