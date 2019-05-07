@@ -39,6 +39,6 @@
 
 <img src="https://github.com/xiaolai77/xcx_float_button/raw/master/images/demo.png" width="320px" style="display:inline;">
 
-![图片名称](./images/demo.png)
+ 
 
 希望大家给个星。感谢
